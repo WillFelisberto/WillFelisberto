@@ -7,7 +7,6 @@
 ### <div align="center">I'm Willian, a full-time full-stack developer </div>  
   
 
-- 🤙 I’m currently working on [Lista de Comunistas](http://listadecomunistas.com.br/)  
  
 <div align="center">
 <a href="https://github.com/willfelisberto" target="_blank">
