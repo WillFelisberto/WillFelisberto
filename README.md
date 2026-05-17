@@ -1,30 +1,35 @@
-
 <div align="center">
-<img src="https://i.imgur.com/NiPiOUf.gif" align="center" style="width: 100%" />
-</div>  
-  
+  <img src="https://i.imgur.com/NiPiOUf.gif" align="center" style="width: 100%" />
+</div>
 
-<h1 align=center>I'm Willian, Front-end Dev</h1>
+<h1 align="center">I'm Willian, Full Stack Developer</h1>
+
+<p align="center">
+  Developer focused on web applications, Oracle Cloud Commerce, automation, AI agents and modern digital experiences.
+  Graduate in Information and Communication Technologies at UFSC and Master's student in ICT.
+</p>
 
 ```javascript
-const coverLetter = {
-  work: "Front-end developer at Compasso UOL",
-  degree: "Graduate in TIC - UFSC",
-  code: ["HTML", "CSS", "Javascript", "React", "KnockoutJS", "Typescript"], 
-  knowledge: ["UX", "UI", "Docker"]
+const profile = {
+  role: "Frontend Developer",
+  company: "Compass.UOL",
+  education: {
+    degree: "Graduate in Information and Communication Technologies - UFSC",
+    master: "Master's student in Information and Communication Technologies - UFSC"
+  },
+  experience: [
+    "React and Next.js applications",
+    "PayloadCMS projects",
+    "AI agents and automation workflows",
+    "IoT and TinyML experiments"
+  ],
+  stack: {
+    frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "KnockoutJS"],
+    backend: ["Node.js", "PayloadCMS", "PostgreSQL", "MongoDB", "REST APIs", "GraphQL"],
+    testing: ["Jest", "Playwright", "Storybook"],
+    devops: ["Docker", "GitHub Actions", "Grafana", "Loki"],
+    automation: ["n8n", "AI Agents", "Evolution API"]
+  },
+  research: ["TinyML", "Edge AI", "Embedded Systems", "Artificial Intelligence"],
+  learning: ["Cloud Architecture", "AI-powered automation", "Software Architecture"]
 }
-```
- 
-<div align="center">
- 
-<a href="https://linkedin.com/in/willianfelisberto" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/WillianFelisberto" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/willfelisberto" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>   
-   
