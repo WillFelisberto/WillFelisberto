@@ -2,10 +2,10 @@
   <img src="https://i.imgur.com/NiPiOUf.gif" align="center" style="width: 100%" />
 </div>
 
-<h1 align="center">I'm Willian, Full Stack Developer</h1>
+<h1 align="center">I'm Willian, Frontend Developer</h1>
 
 <p align="center">
-  Developer focused on web applications, Oracle Cloud Commerce, automation, AI agents and modern digital experiences.
+  Developer focused on web applications, automation, AI agents and modern digital experiences.
   Graduate in Information and Communication Technologies at UFSC and Master's student in ICT.
 </p>
 
